@@ -1,20 +1,19 @@
-# EDA-with-Python
-Applied practical Exploratory Data Analysis (EDA) techniques on a tabular supermarket sales dataset using Python packages such as Pandas and NumPy. 
+## Exploratory Data Analysis with Python
 
-I also produced data visualizations using Seaborn and Matplotlib.
+#### Applied practical Exploratory Data Analysis (EDA) techniques on a tabular supermarket sales dataset using Python packages such as Pandas and NumPy. I also produced data visualizations using Seaborn and Matplotlib.
 
-Overview:
-Initial Data Exploration: Read in data, took a glimpse at a few rows, calculated some summary statistics.
+### Overview:
+* __Initial Data Exploration:__ Read in data, took a glimpse at a few rows, calculated some summary statistics.
 
-Univariate Analysis: Analyzed continuous and categorical variables, one variable at a time.
+* __Univariate Analysis:__ Analyzed continuous and categorical variables, one variable at a time.
 
-Bivariate Analysis: Looked at the relationship between two variables at a time.
+* __Bivariate Analysis:__ Looked at the relationship between two variables at a time.
 
-Viewed for Duplicate and Missing Data: There was none in this dataset. 
+* __Viewed for Duplicate and Missing Data:__ There was none in this dataset. 
 
-Correlation Analysis: Looked at the correlation of numerical variables in the dataset and interpreted the numbers.
+* __Correlation Analysis:__ Looked at the correlation of numerical variables in the dataset and interpreted the numbers.
 
-Questions that were answered:
+### Questions that were answered:
 1. What does the distribution of customer ratings look like? is it skewed?
  Answer: The distribution of customer ratings were normal. Uniform distribution. 
  
